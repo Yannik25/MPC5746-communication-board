@@ -32,14 +32,18 @@ Currently there are seperated Software for every communication system:
 	- Used with a Max6675 SPI Thermocoupler and a SPI Max7219 LED Matrix x4 LED Panel. When #define LEDMATRIX is uncommented then the address 0xFF will be send via SPI with the message conten of 0x1 or 0x0. Through this, two LED panels will be on or off.
 		If #define MAX6675 is uncommented,  one SPI Message will be send with 0xFFFF to set the SPI Clock and SPI CS. The sensor response via MISO and these values will be print via UART.
 
-- LIN_MPC
+- LIN_mpc5746c
 	- Realised via Registers. Sends 0x6C6C6568 and 0x2020206F what represends "hello   "
 
-- CAN 
+- flexcan_mpc5746c 
 	 
  	- #define MASTER //Board 2 (Press Button S6 or S7 on Board 2 or LED 4&5 will light if message from Board 1 arrives)
 	  or
 	- #define SLAVE //Board 1 (Press Button S6 or S7 on Board 1 or LED 4&5 will light if message from Board 2 arrives)
 
-- FlexRay:
+- enet_ping_mpc5746c
+	- Waits for a ping request and respond to it. 
+	- Additional, the PHY Register 0x3 will be read and if the value ist 0xA253 (DP83TC811 from TI) it toggles a LED
+	
+- flexray_mpc5746c:
  	- Still in work
