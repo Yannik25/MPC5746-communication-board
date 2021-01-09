@@ -2,6 +2,8 @@
 
 This board and the software were created for a course during my studies at [HAW-Landshut](https://www.haw-landshut.de/)
 
+![PCB](comboard.jpeg)
+
 It has the following communication system on-board:
 
 - CAN-FD x2
@@ -47,3 +49,15 @@ Currently there are seperated Software for every communication system:
 	
 - flexray_mpc5746c:
  	- Still in work
+
+Changelog from PCB V1 to V2:
+
+- adapt footprint from the processor to add the GND pad. 
+- remove 5V from VDD_LV and therefor connect 1.25V. 
+- add capacitor to VDD_HV_FLA.
+- small placement adjustment for better solder result. 
+- swap pin of 3.3V I2C SDA from PE[12] pin 133 to PA[10] pin 132. 
+- add externen oscillator.
+- swap the pins for RS232 from GPIO port to LINFlexD_1 Interface. 
+- swap 10kΩ resistor in LIN0_TX trace to 0Ω. 
+- add two additional Chip Select Pins for SPI. 
