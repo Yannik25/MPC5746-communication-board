@@ -2,6 +2,8 @@
 
 This board and the software were created for a course during my studies at [HAW-Landshut](https://www.haw-landshut.de/)
 
+Version 1:
+
 ![PCB](comboard.jpeg)
 
 It has the following communication system on-board:
@@ -15,8 +17,8 @@ It has the following communication system on-board:
 - RS232
 
 Additionally, it has follwoing on-board:
-- Two toggle switches, two slide switches, two push-buttons
-- Eight LEDs
+- three toggle switches, four slide switches, two push-buttons
+- eight LEDs
 
 
 Currently there are seperated Software for every communication system:
