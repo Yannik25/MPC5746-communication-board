@@ -1,0 +1,82 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="7">
+        <Line>"${S32_SDK_PATH}/platform/drivers/src/clock/MPC57xx"</Line>
+        <Line>"${S32_SDK_PATH}/rtos/osif/"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/common"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5746C/include"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5746C/startup"</Line>
+        <Line>"${S32_SDK_PATH}/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Symbols</name>
+      <values lines_count="1">
+        <Line>CPU_MPC5746C</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MPC5746C_256"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/rtos/osif/osif.h" FileDate="2020-11-13, 18:20:32" FileAge="1605288032294" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/startup_MPC5746C.S" FileDate="2020-11-13, 18:20:24" FileAge="1605288024779" FileType="262144" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2020-11-13, 18:20:21" FileAge="1605288021592" FileType="262144" />
+      <File Name="Project_Settings/Linker_Files/linker_ram.ld" FileDate="2020-11-13, 18:20:24" FileAge="1605288024672" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029492" FileType="262144" />
+      <File Name="Sources/main.c" FileDate="2020-12-17, 17:52:30" FileAge="1608223950564" FileType="128" />
+      <File Name="Project_Settings/Startup_Code/core0_intc_sw_handlers.S" FileDate="2020-11-13, 18:20:24" FileAge="1605288024772" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/include/MPC5746C_features.h" FileDate="2020-11-13, 18:20:24" FileAge="1605288024556" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/startup/system_MPC5746C.h" FileDate="2020-11-13, 18:20:24" FileAge="1605288024894" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029539" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2020-12-13, 18:13:56" FileAge="1607879636386" FileType="45637" CompNumb="88" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029339" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/startup/system_MPC5746C.c" FileDate="2020-11-13, 18:20:24" FileAge="1605288024810" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/enet/enet_hw_access.h" FileDate="2020-11-13, 18:20:30" FileAge="1605288030125" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/enet/enet_irq.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030141" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/clock.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029370" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2020-12-14, 15:49:57" FileAge="1607957397188" FileType="45637" CompNumb="88" />
+      <File Name="Documentation/enet_ping_mpc5746c_Settings.xml" FileDate="2020-12-13, 18:13:56" FileAge="1607879636409" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/enet/enet_hw_access.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030125" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/interrupt_vectors.S" FileDate="2020-11-13, 18:20:24" FileAge="1605288024779" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cmu_hw_access.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029771" FileType="262144" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2020-11-13, 18:20:21" FileAge="1605288021576" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029771" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgm_hw_access.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029771" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.c" FileDate="2020-11-13, 18:20:29" FileAge="1605288029771" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.h" FileDate="2020-11-13, 18:20:30" FileAge="1605288030843" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030558" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/mc_me_hw_access.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029793" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/enet_driver.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029439" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2020-12-17, 17:53:18" FileAge="1608223998683" FileType="45637" CompNumb="89" />
+      <File Name="SDK/platform/drivers/src/clock/MPC57xx/cgmcs_hw_access.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029755" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030843" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029370" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/enet/enet_driver.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030125" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.h" FileDate="2020-11-13, 18:20:30" FileAge="1605288030827" FileType="262144" />
+      <File Name="SDK/rtos/osif/osif_baremetal.c" FileDate="2020-11-13, 18:20:32" FileAge="1605288032294" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2020-12-17, 17:53:18" FileAge="1608223998695" FileType="45637" CompNumb="89" />
+      <File Name="SDK/platform/devices/common/s32_core_e200.h" FileDate="2020-11-13, 18:20:21" FileAge="1605288021592" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.c" FileDate="2020-11-13, 18:20:30" FileAge="1605288030827" FileType="262144" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2020-11-13, 18:20:21" FileAge="1605288021592" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2020-12-13, 18:13:56" FileAge="1607879636351" FileType="45637" CompNumb="91" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2020-12-13, 18:13:56" FileAge="1607879636346" FileType="45637" CompNumb="91" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2020-11-13, 18:20:29" FileAge="1605288029339" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2020-11-13, 18:20:29" FileAge="1605288029323" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/include/MPC5746C.h" FileDate="2020-11-13, 18:20:24" FileAge="1605288024525" FileType="262144" />
+      <File Name="Documentation/enet_ping_mpc5746c.txt" FileDate="2020-12-13, 18:13:56" FileAge="1607879636429" FileType="3072" />
+      <File Name="Project_Settings/Linker_Files/linker_flash.ld" FileDate="2020-11-13, 18:20:24" FileAge="1605288024656" FileType="262144" />
+      <File Name="Generated_Code/ethernet1.h" FileDate="2020-12-13, 18:13:56" FileAge="1607879636377" FileType="45637" CompNumb="86" />
+      <File Name="Generated_Code/ethernet1.c" FileDate="2020-12-13, 18:13:56" FileAge="1607879636372" FileType="45637" CompNumb="86" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>8</CodeGenReference>
+</CodeGenerationInfo>

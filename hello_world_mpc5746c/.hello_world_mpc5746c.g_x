@@ -1,0 +1,59 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="5">
+        <Line>"${S32_SDK_PATH}/platform/devices"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/common"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5746C/include"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/MPC5746C/startup"</Line>
+        <Line>"${S32_SDK_PATH}/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Symbols</name>
+      <values lines_count="1">
+        <Line>CPU_MPC5746C</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MPC5746C_256"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2019-06-24, 21:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.c" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/startup/system_MPC5746C.c" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2019-06-24, 21:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.h" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Sources/main.c" FileDate="2020-11-15, 21:43:30" FileAge="1605473010883" FileType="128" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/startup_MPC5746C.S" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2020-10-20, 19:32:39" FileAge="1603215159000" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.c" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Documentation/hello_world_mpc5746c.txt" FileDate="2020-10-20, 19:32:39" FileAge="1603215159000" FileType="3072" />
+      <File Name="Documentation/hello_world_mpc5746c_Settings.xml" FileDate="2020-10-20, 19:32:39" FileAge="1603215159000" FileType="3072" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2020-10-20, 19:32:39" FileAge="1603215159000" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/devices/MPC5746C/include/MPC5746C_features.h" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="Project_Settings/Linker_Files/linker_ram.ld" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/core0_intc_sw_handlers.S" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2019-06-24, 21:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="SDK/platform/devices/MPC5746C/include/MPC5746C.h" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/platform/devices/common/s32_core_e200.h" FileDate="2019-06-24, 21:49:04" FileAge="1561405744000" FileType="262144" />
+      <File Name="Project_Settings/Linker_Files/linker_flash.ld" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2020-11-15, 17:08:33" FileAge="1605456513102" FileType="45637" CompNumb="3" />
+      <File Name="Project_Settings/Startup_Code/interrupt_vectors.S" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/siul2/siul2_hw_access.h" FileDate="2019-06-24, 21:49:10" FileAge="1561405750000" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2020-11-15, 17:08:33" FileAge="1605456513132" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/devices/MPC5746C/startup/system_MPC5746C.h" FileDate="2019-06-24, 21:49:06" FileAge="1561405746000" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>12</CodeGenReference>
+</CodeGenerationInfo>

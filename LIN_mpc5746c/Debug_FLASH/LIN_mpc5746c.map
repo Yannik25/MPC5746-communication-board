@@ -1,0 +1,2877 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                              ./Sources/main.o (__eabi)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .fixup         0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sbss          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .sbss2         0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .gcc_except_table
+                0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .data          0x00000000        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .debug_info    0x00000000       0x76 ./Generated_Code/Cpu.o
+ .debug_abbrev  0x00000000       0x29 ./Generated_Code/Cpu.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1fc ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000    0x1fdc8 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_line    0x00000000      0x6cc ./Generated_Code/Cpu.o
+ .debug_str     0x00000000    0xd68c0 ./Generated_Code/Cpu.o
+ .comment       0x00000000       0x83 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .text          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .data          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .bss           0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/dmaController1.o
+ .text          0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .data          0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .bss           0x00000000        0x0 ./Generated_Code/dmaController1.o
+ .sdata2.edmaChnConfigArray
+                0x00000000        0x4 ./Generated_Code/dmaController1.o
+ .bss.dmaController1_State
+                0x00000000       0x80 ./Generated_Code/dmaController1.o
+ .bss.dmaController1Chn0_State
+                0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .sdata2.edmaChnStateArray
+                0x00000000        0x4 ./Generated_Code/dmaController1.o
+ .rodata.dmaController1_InitConfig0
+                0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .data.dmaController1Chn0_Config
+                0x00000000       0x18 ./Generated_Code/dmaController1.o
+ .debug_info    0x00000000     0x112e ./Generated_Code/dmaController1.o
+ .debug_abbrev  0x00000000       0xef ./Generated_Code/dmaController1.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x1fe ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x1c ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000    0x1fdda ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/dmaController1.o
+ .debug_line    0x00000000      0x6d7 ./Generated_Code/dmaController1.o
+ .debug_str     0x00000000    0xd908e ./Generated_Code/dmaController1.o
+ .comment       0x00000000       0x83 ./Generated_Code/dmaController1.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .text          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .bss           0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000    0x1fdc8 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart.o
+ .text          0x00000000        0x0 ./Generated_Code/uart.o
+ .data          0x00000000        0x0 ./Generated_Code/uart.o
+ .bss           0x00000000        0x0 ./Generated_Code/uart.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/uart.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/uart.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x1c ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/uart.o
+ .debug_macro   0x00000000    0x1fdda ./Generated_Code/uart.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .group         0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .text          0x00000000        0x0 ./Generated_Code/uart_pal1.o
+ .data          0x00000000        0x0 ./Generated_Code/uart_pal1.o
+ .bss           0x00000000        0x0 ./Generated_Code/uart_pal1.o
+ .sdata2.uart_pal1_instance
+                0x00000000        0x8 ./Generated_Code/uart_pal1.o
+ .rodata.uart_pal1_Config0
+                0x00000000       0x2c ./Generated_Code/uart_pal1.o
+ .debug_info    0x00000000      0xe07 ./Generated_Code/uart_pal1.o
+ .debug_abbrev  0x00000000       0xa0 ./Generated_Code/uart_pal1.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x204 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x610 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x5e ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x1aa ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x13a ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x1c ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x11 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x75 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000    0x1fdda ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000     0x14d6 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000      0x3f7 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/uart_pal1.o
+ .debug_line    0x00000000      0x6e1 ./Generated_Code/uart_pal1.o
+ .debug_str     0x00000000    0xd886e ./Generated_Code/uart_pal1.o
+ .comment       0x00000000       0x83 ./Generated_Code/uart_pal1.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd8 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .text.SystemSoftwareReset
+                0x00000000       0x12 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .sdata.SystemCoreClock
+                0x00000000        0x4 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000        0xa ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x26 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .text.CLOCK_SYS_SetConfiguration
+                0x00000000       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ClearStructure
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_InstallCallback
+                0x00000000       0x42 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ReleaseChannel
+                0x00000000       0x8c ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_Deinit
+                0x00000000       0x70 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigSingleBlockTransfer
+                0x00000000      0x1c6 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .rodata.EDMA_DRV_ConfigSingleBlockTransfer
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigMultiBlockTransfer
+                0x00000000       0x72 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetChannelRequestAndTrigger
+                0x00000000       0x82 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ChannelInit
+                0x00000000      0x102 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_Init
+                0x00000000      0x164 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ClearTCD
+                0x00000000       0x68 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcAddr
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcOffset
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcReadChunkSize
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetSrcLastAddrAdjustment
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestLastAddrAdjustment
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestOffset
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetDestWriteChunkSize
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetMinorLoopBlockSize
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_GetRemainingMajorIterationsCount
+                0x00000000       0x68 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_SetScatterGatherLink
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_DisableRequestsOnTransferComplete
+                0x00000000       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigureInterrupt
+                0x00000000       0x98 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_CancelTransfer
+                0x00000000       0x48 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_TriggerSwRequest
+                0x00000000       0x68 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_PushConfigToSTCD
+                0x00000000       0xa6 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_PushConfigToReg
+                0x00000000      0x1c6 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigLoopTransfer
+                0x00000000      0x11c ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_ConfigScatterGatherTransfer
+                0x00000000      0x2e4 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .rodata.EDMA_DRV_ConfigScatterGatherTransfer
+                0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .text.EDMA_DRV_GetChannelStatus
+                0x00000000       0x54 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .rodata.s_edmaIrqId
+                0x00000000       0x80 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .sdata2.s_dmaMuxBase
+                0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_CancelTransfer
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_CancelTransferWithError
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetHaltOnErrorCmd
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetChannelPriority
+                0x00000000       0x24 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetChannelArbitrationMode
+                0x00000000        0xe ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_GetChannelArbitrationMode
+                0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetErrorIntCmd
+                0x00000000       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TriggerChannelStart
+                0x00000000       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetGroupPriority
+                0x00000000       0x1a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetGroupArbitrationMode
+                0x00000000        0xe ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_SetMinorLoopMappingCmd
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDClearReg
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_Init
+                0x00000000       0x38 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetSrcAddr
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetSrcOffset
+                0x00000000       0x1e ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetAttribute
+                0x00000000       0x30 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetSrcTransferSize
+                0x00000000       0x28 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetDestTransferSize
+                0x00000000       0x26 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetNbytes
+                0x00000000       0x54 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetSrcMinorLoopOffsetCmd
+                0x00000000       0x30 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetDestMinorLoopOffsetCmd
+                0x00000000       0x30 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetMinorLoopOffset
+                0x00000000       0x3c ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetSrcLastAdjust
+                0x00000000       0x1a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetDestOffset
+                0x00000000       0x1c ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetDestLastAdjust
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetScatterGatherLink
+                0x00000000       0x18 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetScatterGatherCmd
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetChannelMajorLink
+                0x00000000       0x48 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetDisableDmaRequestAfterTCDDoneCmd
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetMajorHalfCompleteIntCmd
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetMajorCompleteIntCmd
+                0x00000000       0x34 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDSetChannelMinorLink
+                0x00000000       0x80 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.EDMA_TCDGetCurrentMajorCount
+                0x00000000       0x3e ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.DMAMUX_Init
+                0x00000000       0x14 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.DMAMUX_SetChannelCmd
+                0x00000000       0x2a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.DMAMUX_SetChannelTrigger
+                0x00000000       0x26 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .text.DMAMUX_SetChannelSource
+                0x00000000       0x20 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ
+                0x00000000       0x4a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_EnableIRQ_MC
+                0x00000000       0x94 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ_MC
+                0x00000000       0x94 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_GetCoresForIRQ
+                0x00000000       0x70 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_DisableIRQ_MC_All
+                0x00000000       0x32 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_SetPriority
+                0x00000000       0x50 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_GetPriority
+                0x00000000       0x30 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_SetSoftwareIRQRequest
+                0x00000000       0x2a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .text.INT_SYS_ClearSoftwareIRQRequest
+                0x00000000       0x2a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_StartReceiveUsingInterrupts
+                0x00000000       0x9a ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_StartSendUsingInterrupts
+                0x00000000       0x7c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_StartSendUsingDma
+                0x00000000      0x108 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_StartReceiveUsingDma
+                0x00000000      0x138 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_CompleteSendUsingDma
+                0x00000000       0xf2 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_GetBaudRate
+                0x00000000       0x7a ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_InstallErrorCallback
+                0x00000000       0x22 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_Deinit
+                0x00000000      0x11c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_SendDataBlocking
+                0x00000000       0xb4 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_SendData
+                0x00000000       0x6c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_GetTransmitStatus
+                0x00000000       0x68 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_AbortSendingData
+                0x00000000       0x54 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_ReceiveDataBlocking
+                0x00000000       0xb8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_ReceiveData
+                0x00000000       0x6c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_GetReceiveStatus
+                0x00000000       0x6a ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_AbortReceivingData
+                0x00000000       0x56 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_SetTxBuffer
+                0x00000000       0x56 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x1c ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_WritePin
+                0x00000000       0x54 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_WritePins
+                0x00000000       0x54 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetPinsOutput
+                0x00000000       0x50 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetPins
+                0x00000000       0x58 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ClearPins
+                0x00000000       0x5a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_TogglePins
+                0x00000000       0x5a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ReadPins
+                0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetPullSel
+                0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetOutputBuffer
+                0x00000000       0x64 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetInputBuffer
+                0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ConfigIntFilterClock
+                0x00000000        0xc ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_SetExInt
+                0x00000000       0x24 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ClearPinExIntFlag
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetPinExIntFlag
+                0x00000000       0x1a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_ClearExIntFlag
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .text.PINS_DRV_GetExIntFlag
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .text.PINS_SetExInt
+                0x00000000       0xb0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .text          0x00000000        0x0 ./SDK/platform/pal/src/uart/uart_pal.o
+ .data          0x00000000        0x0 ./SDK/platform/pal/src/uart/uart_pal.o
+ .bss           0x00000000        0x0 ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_GetDefaultConfig
+                0x00000000       0x38 ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_Deinit
+                0x00000000       0x7c ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_SetBaudRate
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_GetBaudRate
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_SendDataBlocking
+                0x00000000       0x64 ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_SendData
+                0x00000000       0x64 ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_AbortSendingData
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_GetTransmitStatus
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_ReceiveDataBlocking
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_ReceiveData
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_AbortReceivingData
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_GetReceiveStatus
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .text.UART_SetTxBuffer
+                0x00000000       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000      0x610 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x11 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x75 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x5e ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000      0x1aa ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000      0x13a ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000    0x1fdc8 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x00000000       0x1c ./SDK/platform/pal/src/uart/uart_pal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./SDK/rtos/osif/osif_baremetal.o
+ .text          0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .data          0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .bss           0x00000000        0x0 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_PIT_IRQHandler
+                0x00000000       0x22 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_TimeDelay
+                0x00000000       0xf8 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_GetMilliseconds
+                0x00000000        0x6 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexLock
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexUnlock
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexCreate
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_MutexDestroy
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_SemaWait
+                0x00000000      0x154 ./SDK/rtos/osif/osif_baremetal.o
+ .text.OSIF_SemaDestroy
+                0x00000000       0x1e ./SDK/rtos/osif/osif_baremetal.o
+ .sdata.first_init.4929
+                0x00000000        0x1 ./SDK/rtos/osif/osif_baremetal.o
+ .rodata.pitIrqId.4937
+                0x00000000       0x44 ./SDK/rtos/osif/osif_baremetal.o
+ .sbss.s_osif_tick_cnt
+                0x00000000        0x4 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000      0x610 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x52 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0xa0 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x5e ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000      0x1aa ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000      0x13a ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x9d ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x10 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000      0x15b ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x28 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x58 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x16 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x11 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x75 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000    0x1fdda ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000     0x14d6 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000       0x22 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00000000      0x3f7 ./SDK/rtos/osif/osif_baremetal.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .text.delay    0x00000000       0x1a ./Sources/main.o
+ .text.receiveLINframe
+                0x00000000       0x3e ./Sources/main.o
+ .sbss.exit_code
+                0x00000000        0x4 ./Sources/main.o
+ .debug_macro   0x00000000      0x610 ./Sources/main.o
+ .debug_macro   0x00000000       0x52 ./Sources/main.o
+ .debug_macro   0x00000000       0xa0 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x11 ./Sources/main.o
+ .debug_macro   0x00000000       0x75 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x5e ./Sources/main.o
+ .debug_macro   0x00000000      0x1aa ./Sources/main.o
+ .debug_macro   0x00000000      0x13a ./Sources/main.o
+ .debug_macro   0x00000000       0x9d ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000      0x15b ./Sources/main.o
+ .debug_macro   0x00000000       0x28 ./Sources/main.o
+ .debug_macro   0x00000000       0x58 ./Sources/main.o
+ .debug_macro   0x00000000    0x1fdc8 ./Sources/main.o
+ .debug_macro   0x00000000     0x14d6 ./Sources/main.o
+ .debug_macro   0x00000000       0x22 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000      0x3f7 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0x16 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0x28 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .debug_macro   0x00000000       0x10 ./Sources/main.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .jcr           0x00000000        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .text          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .fixup         0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata         0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .sdata2        0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .gcc_except_table
+                0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash_rchw       0x00fa0000         0x00000004
+cpu0_reset_vec   0x00fa0010         0x00000004
+cpu2_reset_vec   0x00fa0004         0x00000004
+m_text           0x01000000         0x00140000
+m_data           0x40000000         0x00030000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+LOAD ./Generated_Code/Cpu.o
+LOAD ./Generated_Code/clockMan1.o
+LOAD ./Generated_Code/dmaController1.o
+LOAD ./Generated_Code/pin_mux.o
+LOAD ./Generated_Code/uart.o
+LOAD ./Generated_Code/uart_pal1.o
+LOAD ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+LOAD ./Project_Settings/Startup_Code/interrupt_vectors.o
+LOAD ./Project_Settings/Startup_Code/startup_MPC5746C.o
+LOAD ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+LOAD ./SDK/platform/devices/startup.o
+LOAD ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+LOAD ./SDK/platform/drivers/src/edma/edma_driver.o
+LOAD ./SDK/platform/drivers/src/edma/edma_hw_access.o
+LOAD ./SDK/platform/drivers/src/edma/edma_irq.o
+LOAD ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+LOAD ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+LOAD ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+LOAD ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+LOAD ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+LOAD ./SDK/platform/pal/src/uart/uart_pal.o
+LOAD ./SDK/rtos/osif/osif_baremetal.o
+LOAD ./Sources/main.o
+START GROUP
+LOAD C:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libc99.a
+LOAD C:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\libm.a
+LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a
+LOAD C:/NXP/S32DS_Power_v2.1/S32DS/build_tools/e200_ewl2/lib/e200z4/fp\librt.a
+END GROUP
+LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x00000000                __HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x0
+                0x00001000                __STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x1000
+                0x01000000                FLASH_BASE_ADDR = DEFINED (__flash_base_addr__)?__flash_base_addr__:0x1000000
+                0x00140000                FLASH_SIZE = DEFINED (__flash_size__)?__flash_size__:0x140000
+                0x40000000                SRAM_BASE_ADDR = DEFINED (__sram_base_addr__)?__sram_base_addr__:0x40000000
+                0x00030000                SRAM_SIZE = DEFINED (__sram_size__)?__sram_size__:0x30000
+
+.rchw           0x00fa0000        0x4
+ *(.rchw)
+ .rchw          0x00fa0000        0x4 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+
+.cpu0_reset_vector
+                0x00fa0010        0x4
+ *(.cpu0_reset_vector)
+ .cpu0_reset_vector
+                0x00fa0010        0x4 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+
+.cpu2_reset_vector
+ *(.cpu2_reset_vector)
+
+.startup        0x01000000      0x168
+                0x01000000                __start = .
+ *(.startup)
+ .startup       0x01000000      0x168 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+                0x01000000                Reset_Handler
+                0x01000000                _start
+
+.core_exceptions_table
+                0x01001000       0xb4
+                0x01001000                __IVPR_VALUE = .
+ *(.core_exceptions_table)
+ .core_exceptions_table
+                0x01001000       0xb4 ./Project_Settings/Startup_Code/interrupt_vectors.o
+                0x01001000                IVOR0_Vector
+                0x01001000                VTABLE
+                0x01001010                IVOR1_Vector
+                0x01001020                IVOR2_Vector
+                0x01001030                IVOR3_Vector
+                0x01001040                IVOR4_Vector
+                0x01001050                IVOR5_Vector
+                0x01001060                IVOR6_Vector
+                0x01001070                IVOR35_Vector
+                0x01001080                IVOR8_Vector
+                0x01001090                IVOR15_Vector
+                0x010010a0                IVOR33_Vector
+                0x010010b0                IVOR34_Vector
+
+.intc_vector_table
+                0x01002000      0xbfc
+                0x01002000                __VECTOR_TABLE = .
+                0x01002000                __interrupts_start__ = .
+ *(.intc_vector_table)
+ .intc_vector_table
+                0x01002000      0xbfc ./Project_Settings/Startup_Code/startup_MPC5746C.o
+                0x01002000                __isr_vector
+                0x01002bf8                SIUL_EIRQ_16_23_IRQHandler
+                0x01002bf8                CAN5_Error_IRQHandler
+                0x01002bf8                DSPI6_Send_IRQHandler
+                0x01002bf8                EMIOS1_26_27_IRQHandler
+                0x01002bf8                IVOR34_Exception_Handler
+                0x01002bf8                PIT_Ch15_IRQHandler
+                0x01002bf8                CAN4_ORed_12_15_MB_IRQHandler
+                0x01002bf8                PIT_Ch0_IRQHandler
+                0x01002bf8                CAN1_ORed_12_15_MB_IRQHandler
+                0x01002bf8                DSPI1_Send_IRQHandler
+                0x01002bf8                DSPI0_FIFO_Error_IRQHandler
+                0x01002bf8                DSPI4_Send_IRQHandler
+                0x01002bf8                DSPI5_FIFO_Error_IRQHandler
+                0x01002bf8                EMIOS1_00_01_IRQHandler
+                0x01002bf8                CAN1_ORed_IRQHandler
+                0x01002bf8                SAI0_Rx_IRQHandler
+                0x01002bf8                DSPI3_Receive_IRQHandler
+                0x01002bf8                ADC1_ER_IRQHandler
+                0x01002bf8                EMIOS1_28_29_IRQHandler
+                0x01002bf8                EMIOS0_22_23_IRQHandler
+                0x01002bf8                EMIOS1_30_31_IRQHandler
+                0x01002bf8                ADC1_WD_IRQHandler
+                0x01002bf8                IVOR5_Exception_Handler
+                0x01002bf8                ADC0_WD_IRQHandler
+                0x01002bf8                EMIOS0_10_11_IRQHandler
+                0x01002bf8                PIT_Ch14_IRQHandler
+                0x01002bf8                CAN2_ORed_12_15_MB_IRQHandler
+                0x01002bf8                DSPI3_Send_IRQHandler
+                0x01002bf8                ENET0_Tx_2_IRQHandler
+                0x01002bf8                CAN2_ORed_04_07_MB_IRQHandler
+                0x01002bf8                CAN7_ORed_IRQHandler
+                0x01002bf8                IVOR2_Exception_Handler
+                0x01002bf8                CAN5_ORed_04_07_MB_IRQHandler
+                0x01002bf8                PIT_Ch7_IRQHandler
+                0x01002bf8                CAN3_Error_IRQHandler
+                0x01002bf8                CAN1_ORed_64_95_MB_IRQHandler
+                0x01002bf8                CAN2_Error_IRQHandler
+                0x01002bf8                SAI2_Tx_IRQHandler
+                0x01002bf8                ENET0_Parser_IRQHandler
+                0x01002bf8                DSPI2_FIFO_Error_IRQHandler
+                0x01002bf8                EMIOS0_30_31_IRQHandler
+                0x01002bf8                SWT0_IRQHandler
+                0x01002bf8                PIT_Ch10_IRQHandler
+                0x01002bf8                SAI2_Rx_IRQHandler
+                0x01002bf8                ENET0_Rx_1_IRQHandler
+                0x01002bf8                WKPU_23_16_IRQHandler
+                0x01002bf8                IVOR33_Exception_Handler
+                0x01002bf8                CAN1_ORed_00_03_MB_IRQHandler
+                0x01002bf8                SAI0_Tx_IRQHandler
+                0x01002bf8                CAN3_ORed_16_31_MB_IRQHandler
+                0x01002bf8                EMIOS0_24_25_IRQHandler
+                0x01002bf8                CAN5_ORed_00_03_MB_IRQHandler
+                0x01002bf8                DSPI2_Receive_IRQHandler
+                0x01002bf8                PIT_Ch5_IRQHandler
+                0x01002bf8                EMIOS0_12_13_IRQHandler
+                0x01002bf8                PIT_Ch1_IRQHandler
+                0x01002bf8                DSPI6_Receive_IRQHandler
+                0x01002bf8                CAN4_ORed_IRQHandler
+                0x01002bf8                CAN5_ORed_64_95_MB_IRQHandler
+                0x01002bf8                EMIOS1_14_15_IRQHandler
+                0x01002bf8                ENET0_Err_IRQHandler
+                0x01002bf8                CAN0_ORed_04_07_MB_IRQHandler
+                0x01002bf8                CAN7_ORed_04_07_MB_IRQHandler
+                0x01002bf8                DSPI0_Send_IRQHandler
+                0x01002bf8                BCTU_ListLast_IRQHandler
+                0x01002bf8                ENET0_Rx_IRQHandler
+                0x01002bf8                I2C_DRV_Module2IRQHandler
+                0x01002bf8                SAI1_Tx_IRQHandler
+                0x01002bf8                CAN7_ORed_08_11_MB_IRQHandler
+                0x01002bf8                EMIOS0_14_15_IRQHandler
+                0x01002bf8                DSPI0_Receive_IRQHandler
+                0x01002bf8                PIT_Ch2_IRQHandler
+                0x01002bf8                CMP0_IRQHandler
+                0x01002bf8                CAN0_Wake_Up_IRQHandler
+                0x01002bf8                ADC0_EOC_IRQHandler
+                0x01002bf8                EMIOS0_16_17_IRQHandler
+                0x01002bf8                DSPI2_Send_IRQHandler
+                0x01002bf8                IVOR15_Exception_Handler
+                0x01002bf8                CAN7_ORed_12_15_MB_IRQHandler
+                0x01002bf8                DSPI4_FIFO_Error_IRQHandler
+                0x01002bf8                PIT_Ch11_IRQHandler
+                0x01002bf8                CAN0_Error_IRQHandler
+                0x01002bf8                CAN5_ORed_08_11_MB_IRQHandler
+                0x01002bf8                PIT_Ch12_IRQHandler
+                0x01002bf8                CAN2_ORed_16_31_MB_IRQHandler
+                0x01002bf8                CAN4_ORed_04_07_MB_IRQHandler
+                0x01002bf8                ENET0_Tx_1_IRQHandler
+                0x01002bf8                EMIOS1_10_11_IRQHandler
+                0x01002bf8                PIT_Ch4_IRQHandler
+                0x01002bf8                CAN7_ORed_00_03_MB_IRQHandler
+                0x01002bf8                CAN6_ORed_08_11_MB_IRQHandler
+                0x01002bf8                CAN3_ORed_32_63_MB_IRQHandler
+                0x01002bf8                ENET0_Rx_2_IRQHandler
+                0x01002bf8                CAN3_ORed_08_11_MB_IRQHandler
+                0x01002bf8                CAN3_ORed_00_03_MB_IRQHandler
+                0x01002bf8                CAN4_ORed_16_31_MB_IRQHandler
+                0x01002bf8                CAN1_ORed_16_31_MB_IRQHandler
+                0x01002bf8                SIUL_EIRQ_00_07_IRQHandler
+                0x01002bf8                CAN6_ORed_04_07_MB_IRQHandler
+                0x01002bf8                ADC0_ER_IRQHandler
+                0x01002bf8                CAN5_ORed_IRQHandler
+                0x01002bf8                DSPI1_FIFO_Error_IRQHandler
+                0x01002bf8                CAN2_ORed_32_63_MB_IRQHandler
+                0x01002bf8                DSPI7_Receive_IRQHandler
+                0x01002bf8                EMIOS1_04_05_IRQHandler
+                0x01002bf8                CAN6_ORed_IRQHandler
+                0x01002bf8                EMIOS1_12_13_IRQHandler
+                0x01002bf8                STM1_Ch1_IRQHandler
+                0x01002bf8                CAN4_Error_IRQHandler
+                0x01002bf8                CAN6_ORed_64_95_MB_IRQHandler
+                0x01002bf8                IVOR3_Exception_Handler
+                0x01002bf8                EMIOS1_06_07_IRQHandler
+                0x01002bf8                SIUL_EIRQ_24_31_IRQHandler
+                0x01002bf8                STM1_Ch0_IRQHandler
+                0x01002bf8                CMP2_IRQHandler
+                0x01002bf8                IVOR1_Exception_Handler
+                0x01002bf8                DSPI7_FIFO_Error_IRQHandler
+                0x01002bf8                STM0_Ch0_IRQHandler
+                0x01002bf8                DSPI5_Receive_IRQHandler
+                0x01002bf8                CAN0_ORed_32_63_MB_IRQHandler
+                0x01002bf8                HSM_DRV_IRQHandler
+                0x01002bf8                IVOR0_Exception_Handler
+                0x01002bf8                IVOR35_Exception_Handler
+                0x01002bf8                CAN2_ORed_00_03_MB_IRQHandler
+                0x01002bf8                PIT_RTI_IRQHandler
+                0x01002bf8                IVOR8_Exception_Handler
+                0x01002bf8                CAN1_Error_IRQHandler
+                0x01002bf8                CAN7_ORed_16_31_MB_IRQHandler
+                0x01002bf8                CAN4_ORed_00_03_MB_IRQHandler
+                0x01002bf8                WKPU_31_24_IRQHandler
+                0x01002bf8                ENET0_Tx_IRQHandler
+                0x01002bf8                I2C_DRV_Module1IRQHandler
+                0x01002bf8                CAN4_ORed_32_63_MB_IRQHandler
+                0x01002bf8                CAN0_ORed_IRQHandler
+                0x01002bf8                STM0_Ch2_IRQHandler
+                0x01002bf8                CAN0_ORed_12_15_MB_IRQHandler
+                0x01002bf8                CAN5_ORed_12_15_MB_IRQHandler
+                0x01002bf8                EMIOS1_02_03_IRQHandler
+                0x01002bf8                CAN3_ORed_04_07_MB_IRQHandler
+                0x01002bf8                WKPU_15_08_IRQHandler
+                0x01002bf8                CAN4_ORed_64_95_MB_IRQHandler
+                0x01002bf8                CAN7_ORed_32_63_MB_IRQHandler
+                0x01002bf8                RTC0_IRQHandler
+                0x01002bf8                EMIOS0_00_01_IRQHandler
+                0x01002bf8                STM0_Ch3_IRQHandler
+                0x01002bf8                EMIOS0_18_19_IRQHandler
+                0x01002bf8                DSPI3_FIFO_Error_IRQHandler
+                0x01002bf8                I2C_DRV_Module0IRQHandler
+                0x01002bf8                EMIOS0_20_21_IRQHandler
+                0x01002bf8                PIT_Ch13_IRQHandler
+                0x01002bf8                I2C_DRV_Module3IRQHandler
+                0x01002bf8                EMIOS1_24_25_IRQHandler
+                0x01002bf8                CAN7_ORed_64_95_MB_IRQHandler
+                0x01002bf8                DSPI7_Send_IRQHandler
+                0x01002bf8                STM1_Ch3_IRQHandler
+                0x01002bf8                PIT_Ch6_IRQHandler
+                0x01002bf8                IVOR6_Exception_Handler
+                0x01002bf8                CAN0_ORed_00_03_MB_IRQHandler
+                0x01002bf8                PIT_Ch8_IRQHandler
+                0x01002bf8                EMIOS1_08_09_IRQHandler
+                0x01002bf8                CAN6_ORed_00_03_MB_IRQHandler
+                0x01002bf8                PIT_Ch9_IRQHandler
+                0x01002bf8                SIUL_EIRQ_08_15_IRQHandler
+                0x01002bf8                PIT_Ch3_IRQHandler
+                0x01002bf8                CAN3_ORed_64_95_MB_IRQHandler
+                0x01002bf8                EMIOS0_26_27_IRQHandler
+                0x01002bf8                CAN3_ORed_12_15_MB_IRQHandler
+                0x01002bf8                DSPI6_FIFO_Error_IRQHandler
+                0x01002bf8                CAN7_Error_IRQHandler
+                0x01002bf8                DSPI4_Receive_IRQHandler
+                0x01002bf8                CAN5_ORed_32_63_MB_IRQHandler
+                0x01002bf8                CAN2_ORed_IRQHandler
+                0x01002bf8                EMIOS0_04_05_IRQHandler
+                0x01002bf8                STM1_Ch2_IRQHandler
+                0x01002bf8                CAN2_ORed_64_95_MB_IRQHandler
+                0x01002bf8                CAN1_ORed_08_11_MB_IRQHandler
+                0x01002bf8                CAN2_ORed_08_11_MB_IRQHandler
+                0x01002bf8                SWT1_IRQHandler
+                0x01002bf8                EMIOS1_16_17_IRQHandler
+                0x01002bf8                FLASH_Done_IRQHandler
+                0x01002bf8                API0_IRQHandler
+                0x01002bf8                CAN0_ORed_08_11_MB_IRQHandler
+                0x01002bf8                CAN6_Error_IRQHandler
+                0x01002bf8                EMIOS0_08_09_IRQHandler
+                0x01002bf8                DSPI1_Receive_IRQHandler
+                0x01002bf8                CAN6_ORed_16_31_MB_IRQHandler
+                0x01002bf8                CAN0_ORed_16_31_MB_IRQHandler
+                0x01002bf8                CAN0_ORed_64_95_MB_IRQHandler
+                0x01002bf8                CMP1_IRQHandler
+                0x01002bf8                CAN1_ORed_04_07_MB_IRQHandler
+                0x01002bf8                EMIOS0_28_29_IRQHandler
+                0x01002bf8                CAN1_ORed_32_63_MB_IRQHandler
+                0x01002bf8                DefaultISR
+                0x01002bf8                CAN4_ORed_08_11_MB_IRQHandler
+                0x01002bf8                EMIOS0_02_03_IRQHandler
+                0x01002bf8                CAN6_ORed_32_63_MB_IRQHandler
+                0x01002bf8                EMIOS0_06_07_IRQHandler
+                0x01002bf8                SAI1_Rx_IRQHandler
+                0x01002bf8                EMIOS1_20_21_IRQHandler
+                0x01002bf8                ENET0_Timer_IRQHandler
+                0x01002bf8                CAN6_ORed_12_15_MB_IRQHandler
+                0x01002bf8                EMIOS1_18_19_IRQHandler
+                0x01002bf8                EMIOS1_22_23_IRQHandler
+                0x01002bf8                ADC1_EOC_IRQHandler
+                0x01002bf8                DSPI5_Send_IRQHandler
+                0x01002bf8                STM0_Ch1_IRQHandler
+                0x01002bf8                CAN5_ORed_16_31_MB_IRQHandler
+                0x01002bf8                BCTU_ConvUpdate_IRQHandler
+                0x01002bf8                WKPU_07_00_IRQHandler
+                0x01002bf8                FCCU0_IRQ_Handler
+                0x01002bf8                CAN3_ORed_IRQHandler
+                0x01002bfc                __interrupts_end__ = .
+                0x00000c00                __RAM_VECTOR_TABLE_SIZE = 0xc00
+                0x01002c00                __VECTOR_TABLE_COPY_END = (__VECTOR_TABLE + __RAM_VECTOR_TABLE_SIZE)
+
+.text           0x01002c00     0x3580
+ *(.text.startup)
+ *(.text)
+ .text          0x01002c00      0x16c c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *fill*         0x01002d6c        0x4 
+ .text          0x01002d70      0x2f6 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+                0x01002db0                IVOR0_Handler
+                0x01002dde                IVOR1_Handler
+                0x01002e2c                IVOR2_Handler
+                0x01002e66                IVOR3_Handler
+                0x01002ea0                IVOR4_Handler
+                0x01002ee8                IVOR5_Handler
+                0x01002f22                IVOR6_Handler
+                0x01002f5c                IVOR8_Handler
+                0x01002f96                IVOR15_Handler
+                0x01002fc4                IVOR33_Handler
+                0x01002ffe                IVOR34_Handler
+                0x01003038                IVOR35_Handler
+ .text          0x01003066       0x4a c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                0x01003066                __eabi
+ .text          0x010030b0       0x48 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ *(.text.*)
+ .text.SystemInit
+                0x010030f8       0x7a ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+                0x010030f8                SystemInit
+ *fill*         0x01003172        0x2 
+ .text.init_data_bss
+                0x01003174       0xb4 ./SDK/platform/devices/startup.o
+                0x01003174                init_data_bss
+ .text.CLOCK_SYS_GetFircFreq
+                0x01003228       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x01003246        0x2 
+ .text.CLOCK_SYS_GetFxoscFreq
+                0x01003248       0x1e ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x01003266        0x2 
+ .text.CLOCK_SYS_CalculateFrequenciesOfClockSources
+                0x01003268      0x136 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x0100339e        0x2 
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x010033a0      0x1e6 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x01003586        0x2 
+ .text.CLOCK_DRV_Init
+                0x01003588      0xb2a ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x01003588                CLOCK_DRV_Init
+ *fill*         0x010040b2        0x2 
+ .text.CLOCK_DRV_GetFreq
+                0x010040b4      0x444 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x010040b4                CLOCK_DRV_GetFreq
+ .text.CLOCK_SYS_Init
+                0x010044f8       0x4c ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x010044f8                CLOCK_SYS_Init
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x01004544      0x186 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x01004544                CLOCK_SYS_UpdateConfiguration
+ *fill*         0x010046ca        0x2 
+ .text.CLOCK_SYS_GetFreq
+                0x010046cc       0x14 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x010046cc                CLOCK_SYS_GetFreq
+ .text.EDMA_DRV_IRQHandler
+                0x010046e0       0x52 ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x010046e0                EDMA_DRV_IRQHandler
+ *fill*         0x01004732        0x2 
+ .text.EDMA_DRV_ErrorIRQHandler
+                0x01004734       0x6c ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x01004734                EDMA_DRV_ErrorIRQHandler
+ .text.EDMA_DRV_StartChannel
+                0x010047a0       0x6c ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x010047a0                EDMA_DRV_StartChannel
+ .text.EDMA_DRV_StopChannel
+                0x0100480c       0x6c ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x0100480c                EDMA_DRV_StopChannel
+ .text.EDMA_DRV_SetDestAddr
+                0x01004878       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x01004878                EDMA_DRV_SetDestAddr
+ *fill*         0x010048e2        0x2 
+ .text.EDMA_DRV_SetMajorLoopIterationCount
+                0x010048e4       0x6a ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x010048e4                EDMA_DRV_SetMajorLoopIterationCount
+ *fill*         0x0100494e        0x2 
+ .text.EDMA_DRV_GetDmaRegBaseAddr
+                0x01004950       0x12 ./SDK/platform/drivers/src/edma/edma_driver.o
+                0x01004950                EDMA_DRV_GetDmaRegBaseAddr
+ *fill*         0x01004962        0x2 
+ .text.EDMA_GetErrorIntStatusFlag
+                0x01004964        0xa ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x01004964                EDMA_GetErrorIntStatusFlag
+ *fill*         0x0100496e        0x2 
+ .text.EDMA_ClearErrorIntStatusFlag
+                0x01004970       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x01004970                EDMA_ClearErrorIntStatusFlag
+ *fill*         0x01004982        0x2 
+ .text.EDMA_SetDmaRequestCmd
+                0x01004984       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x01004984                EDMA_SetDmaRequestCmd
+ *fill*         0x01004996        0x2 
+ .text.EDMA_ClearDoneStatusFlag
+                0x01004998       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x01004998                EDMA_ClearDoneStatusFlag
+ *fill*         0x010049aa        0x2 
+ .text.EDMA_ClearIntStatusFlag
+                0x010049ac       0x12 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x010049ac                EDMA_ClearIntStatusFlag
+ *fill*         0x010049be        0x2 
+ .text.EDMA_TCDSetDestAddr
+                0x010049c0       0x18 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x010049c0                EDMA_TCDSetDestAddr
+ .text.EDMA_TCDSetMajorCount
+                0x010049d8       0x72 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                0x010049d8                EDMA_TCDSetMajorCount
+ *fill*         0x01004a4a        0x2 
+ .text.DMA0_Ch0_IRQHandler
+                0x01004a4c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004a4c                DMA0_Ch0_IRQHandler
+ *fill*         0x01004a62        0x2 
+ .text.DMA0_Ch1_IRQHandler
+                0x01004a64       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004a64                DMA0_Ch1_IRQHandler
+ *fill*         0x01004a7a        0x2 
+ .text.DMA0_Ch2_IRQHandler
+                0x01004a7c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004a7c                DMA0_Ch2_IRQHandler
+ *fill*         0x01004a92        0x2 
+ .text.DMA0_Ch3_IRQHandler
+                0x01004a94       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004a94                DMA0_Ch3_IRQHandler
+ *fill*         0x01004aaa        0x2 
+ .text.DMA0_Ch4_IRQHandler
+                0x01004aac       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004aac                DMA0_Ch4_IRQHandler
+ *fill*         0x01004ac2        0x2 
+ .text.DMA0_Ch5_IRQHandler
+                0x01004ac4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004ac4                DMA0_Ch5_IRQHandler
+ *fill*         0x01004ada        0x2 
+ .text.DMA0_Ch6_IRQHandler
+                0x01004adc       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004adc                DMA0_Ch6_IRQHandler
+ *fill*         0x01004af2        0x2 
+ .text.DMA0_Ch7_IRQHandler
+                0x01004af4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004af4                DMA0_Ch7_IRQHandler
+ *fill*         0x01004b0a        0x2 
+ .text.DMA0_Ch8_IRQHandler
+                0x01004b0c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b0c                DMA0_Ch8_IRQHandler
+ *fill*         0x01004b22        0x2 
+ .text.DMA0_Ch9_IRQHandler
+                0x01004b24       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b24                DMA0_Ch9_IRQHandler
+ *fill*         0x01004b3a        0x2 
+ .text.DMA0_Ch10_IRQHandler
+                0x01004b3c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b3c                DMA0_Ch10_IRQHandler
+ *fill*         0x01004b52        0x2 
+ .text.DMA0_Ch11_IRQHandler
+                0x01004b54       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b54                DMA0_Ch11_IRQHandler
+ *fill*         0x01004b6a        0x2 
+ .text.DMA0_Ch12_IRQHandler
+                0x01004b6c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b6c                DMA0_Ch12_IRQHandler
+ *fill*         0x01004b82        0x2 
+ .text.DMA0_Ch13_IRQHandler
+                0x01004b84       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b84                DMA0_Ch13_IRQHandler
+ *fill*         0x01004b9a        0x2 
+ .text.DMA0_Ch14_IRQHandler
+                0x01004b9c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004b9c                DMA0_Ch14_IRQHandler
+ *fill*         0x01004bb2        0x2 
+ .text.DMA0_Ch15_IRQHandler
+                0x01004bb4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004bb4                DMA0_Ch15_IRQHandler
+ *fill*         0x01004bca        0x2 
+ .text.DMA0_Ch16_IRQHandler
+                0x01004bcc       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004bcc                DMA0_Ch16_IRQHandler
+ *fill*         0x01004be2        0x2 
+ .text.DMA0_Ch17_IRQHandler
+                0x01004be4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004be4                DMA0_Ch17_IRQHandler
+ *fill*         0x01004bfa        0x2 
+ .text.DMA0_Ch18_IRQHandler
+                0x01004bfc       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004bfc                DMA0_Ch18_IRQHandler
+ *fill*         0x01004c12        0x2 
+ .text.DMA0_Ch19_IRQHandler
+                0x01004c14       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c14                DMA0_Ch19_IRQHandler
+ *fill*         0x01004c2a        0x2 
+ .text.DMA0_Ch20_IRQHandler
+                0x01004c2c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c2c                DMA0_Ch20_IRQHandler
+ *fill*         0x01004c42        0x2 
+ .text.DMA0_Ch21_IRQHandler
+                0x01004c44       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c44                DMA0_Ch21_IRQHandler
+ *fill*         0x01004c5a        0x2 
+ .text.DMA0_Ch22_IRQHandler
+                0x01004c5c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c5c                DMA0_Ch22_IRQHandler
+ *fill*         0x01004c72        0x2 
+ .text.DMA0_Ch23_IRQHandler
+                0x01004c74       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c74                DMA0_Ch23_IRQHandler
+ *fill*         0x01004c8a        0x2 
+ .text.DMA0_Ch24_IRQHandler
+                0x01004c8c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004c8c                DMA0_Ch24_IRQHandler
+ *fill*         0x01004ca2        0x2 
+ .text.DMA0_Ch25_IRQHandler
+                0x01004ca4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004ca4                DMA0_Ch25_IRQHandler
+ *fill*         0x01004cba        0x2 
+ .text.DMA0_Ch26_IRQHandler
+                0x01004cbc       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004cbc                DMA0_Ch26_IRQHandler
+ *fill*         0x01004cd2        0x2 
+ .text.DMA0_Ch27_IRQHandler
+                0x01004cd4       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004cd4                DMA0_Ch27_IRQHandler
+ *fill*         0x01004cea        0x2 
+ .text.DMA0_Ch28_IRQHandler
+                0x01004cec       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004cec                DMA0_Ch28_IRQHandler
+ *fill*         0x01004d02        0x2 
+ .text.DMA0_Ch29_IRQHandler
+                0x01004d04       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004d04                DMA0_Ch29_IRQHandler
+ *fill*         0x01004d1a        0x2 
+ .text.DMA0_Ch30_IRQHandler
+                0x01004d1c       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004d1c                DMA0_Ch30_IRQHandler
+ *fill*         0x01004d32        0x2 
+ .text.DMA0_Ch31_IRQHandler
+                0x01004d34       0x16 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004d34                DMA0_Ch31_IRQHandler
+ *fill*         0x01004d4a        0x2 
+ .text.DMA0_Ch0_Ch31_Error_IRQHandler
+                0x01004d4c       0x42 ./SDK/platform/drivers/src/edma/edma_irq.o
+                0x01004d4c                DMA0_Ch0_Ch31_Error_IRQHandler
+ *fill*         0x01004d8e        0x2 
+ .text.INT_SYS_InstallHandler
+                0x01004d90       0x62 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004d90                INT_SYS_InstallHandler
+ *fill*         0x01004df2        0x2 
+ .text.INT_SYS_EnableIRQ
+                0x01004df4       0x4c ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004df4                INT_SYS_EnableIRQ
+ .text.INT_SYS_EnableIRQGlobal
+                0x01004e40       0x26 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004e40                INT_SYS_EnableIRQGlobal
+ *fill*         0x01004e66        0x2 
+ .text.INT_SYS_DisableIRQGlobal
+                0x01004e68       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                0x01004e68                INT_SYS_DisableIRQGlobal
+ .text.LINFLEXD_UART_DRV_PutData
+                0x01004e78       0x84 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_CompleteSendUsingInterrupts
+                0x01004efc       0x5e ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ *fill*         0x01004f5a        0x2 
+ .text.LINFLEXD_UART_DRV_CompleteReceiveUsingInterrupts
+                0x01004f5c       0x68 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .text.LINFLEXD_UART_DRV_CompleteReceiveUsingDma
+                0x01004fc4      0x112 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ *fill*         0x010050d6        0x2 
+ .text.LINFLEXD_UART_DRV_SetBaudRate
+                0x010050d8      0x114 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x010050d8                LINFLEXD_UART_DRV_SetBaudRate
+ .text.LINFLEXD_UART_DRV_InstallRxCallback
+                0x010051ec       0x22 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x010051ec                LINFLEXD_UART_DRV_InstallRxCallback
+ *fill*         0x0100520e        0x2 
+ .text.LINFLEXD_UART_DRV_InstallTxCallback
+                0x01005210       0x22 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x01005210                LINFLEXD_UART_DRV_InstallTxCallback
+ *fill*         0x01005232        0x2 
+ .text.LINFLEXD_UART_DRV_Init
+                0x01005234      0x2ce ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x01005234                LINFLEXD_UART_DRV_Init
+ *fill*         0x01005502        0x2 
+ .text.LINFLEXD_UART_DRV_SetRxBuffer
+                0x01005504       0x56 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x01005504                LINFLEXD_UART_DRV_SetRxBuffer
+ *fill*         0x0100555a        0x2 
+ .text.LINFLEXD_UART_DRV_RxIRQHandler
+                0x0100555c       0xde ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x0100555c                LINFLEXD_UART_DRV_RxIRQHandler
+ *fill*         0x0100563a        0x2 
+ .text.LINFLEXD_UART_DRV_TxIRQHandler
+                0x0100563c       0x92 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x0100563c                LINFLEXD_UART_DRV_TxIRQHandler
+ *fill*         0x010056ce        0x2 
+ .text.LINFLEXD_UART_DRV_ErrIRQHandler
+                0x010056d0       0x8e ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                0x010056d0                LINFLEXD_UART_DRV_ErrIRQHandler
+ *fill*         0x0100575e        0x2 
+ .text.LINFLEXD0_UART_RxIRQHandler
+                0x01005760       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005760                LINFLEXD0_UART_RxIRQHandler
+ *fill*         0x01005776        0x2 
+ .text.LINFLEXD1_UART_RxIRQHandler
+                0x01005778       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005778                LINFLEXD1_UART_RxIRQHandler
+ *fill*         0x0100578e        0x2 
+ .text.LINFLEXD2_UART_RxIRQHandler
+                0x01005790       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005790                LINFLEXD2_UART_RxIRQHandler
+ *fill*         0x010057a6        0x2 
+ .text.LINFLEXD3_UART_RxIRQHandler
+                0x010057a8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010057a8                LINFLEXD3_UART_RxIRQHandler
+ *fill*         0x010057be        0x2 
+ .text.LINFLEXD4_UART_RxIRQHandler
+                0x010057c0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010057c0                LINFLEXD4_UART_RxIRQHandler
+ *fill*         0x010057d6        0x2 
+ .text.LINFLEXD5_UART_RxIRQHandler
+                0x010057d8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010057d8                LINFLEXD5_UART_RxIRQHandler
+ *fill*         0x010057ee        0x2 
+ .text.LINFLEXD6_UART_RxIRQHandler
+                0x010057f0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010057f0                LINFLEXD6_UART_RxIRQHandler
+ *fill*         0x01005806        0x2 
+ .text.LINFLEXD7_UART_RxIRQHandler
+                0x01005808       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005808                LINFLEXD7_UART_RxIRQHandler
+ *fill*         0x0100581e        0x2 
+ .text.LINFLEXD8_UART_RxIRQHandler
+                0x01005820       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005820                LINFLEXD8_UART_RxIRQHandler
+ *fill*         0x01005836        0x2 
+ .text.LINFLEXD9_UART_RxIRQHandler
+                0x01005838       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005838                LINFLEXD9_UART_RxIRQHandler
+ *fill*         0x0100584e        0x2 
+ .text.LINFLEXD10_UART_RxIRQHandler
+                0x01005850       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005850                LINFLEXD10_UART_RxIRQHandler
+ *fill*         0x01005866        0x2 
+ .text.LINFLEXD11_UART_RxIRQHandler
+                0x01005868       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005868                LINFLEXD11_UART_RxIRQHandler
+ *fill*         0x0100587e        0x2 
+ .text.LINFLEXD12_UART_RxIRQHandler
+                0x01005880       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005880                LINFLEXD12_UART_RxIRQHandler
+ *fill*         0x01005896        0x2 
+ .text.LINFLEXD13_UART_RxIRQHandler
+                0x01005898       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005898                LINFLEXD13_UART_RxIRQHandler
+ *fill*         0x010058ae        0x2 
+ .text.LINFLEXD14_UART_RxIRQHandler
+                0x010058b0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010058b0                LINFLEXD14_UART_RxIRQHandler
+ *fill*         0x010058c6        0x2 
+ .text.LINFLEXD15_UART_RxIRQHandler
+                0x010058c8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010058c8                LINFLEXD15_UART_RxIRQHandler
+ *fill*         0x010058de        0x2 
+ .text.LINFLEXD0_UART_TxIRQHandler
+                0x010058e0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010058e0                LINFLEXD0_UART_TxIRQHandler
+ *fill*         0x010058f6        0x2 
+ .text.LINFLEXD1_UART_TxIRQHandler
+                0x010058f8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010058f8                LINFLEXD1_UART_TxIRQHandler
+ *fill*         0x0100590e        0x2 
+ .text.LINFLEXD2_UART_TxIRQHandler
+                0x01005910       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005910                LINFLEXD2_UART_TxIRQHandler
+ *fill*         0x01005926        0x2 
+ .text.LINFLEXD3_UART_TxIRQHandler
+                0x01005928       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005928                LINFLEXD3_UART_TxIRQHandler
+ *fill*         0x0100593e        0x2 
+ .text.LINFLEXD4_UART_TxIRQHandler
+                0x01005940       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005940                LINFLEXD4_UART_TxIRQHandler
+ *fill*         0x01005956        0x2 
+ .text.LINFLEXD5_UART_TxIRQHandler
+                0x01005958       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005958                LINFLEXD5_UART_TxIRQHandler
+ *fill*         0x0100596e        0x2 
+ .text.LINFLEXD6_UART_TxIRQHandler
+                0x01005970       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005970                LINFLEXD6_UART_TxIRQHandler
+ *fill*         0x01005986        0x2 
+ .text.LINFLEXD7_UART_TxIRQHandler
+                0x01005988       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005988                LINFLEXD7_UART_TxIRQHandler
+ *fill*         0x0100599e        0x2 
+ .text.LINFLEXD8_UART_TxIRQHandler
+                0x010059a0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010059a0                LINFLEXD8_UART_TxIRQHandler
+ *fill*         0x010059b6        0x2 
+ .text.LINFLEXD9_UART_TxIRQHandler
+                0x010059b8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010059b8                LINFLEXD9_UART_TxIRQHandler
+ *fill*         0x010059ce        0x2 
+ .text.LINFLEXD10_UART_TxIRQHandler
+                0x010059d0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010059d0                LINFLEXD10_UART_TxIRQHandler
+ *fill*         0x010059e6        0x2 
+ .text.LINFLEXD11_UART_TxIRQHandler
+                0x010059e8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010059e8                LINFLEXD11_UART_TxIRQHandler
+ *fill*         0x010059fe        0x2 
+ .text.LINFLEXD12_UART_TxIRQHandler
+                0x01005a00       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a00                LINFLEXD12_UART_TxIRQHandler
+ *fill*         0x01005a16        0x2 
+ .text.LINFLEXD13_UART_TxIRQHandler
+                0x01005a18       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a18                LINFLEXD13_UART_TxIRQHandler
+ *fill*         0x01005a2e        0x2 
+ .text.LINFLEXD14_UART_TxIRQHandler
+                0x01005a30       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a30                LINFLEXD14_UART_TxIRQHandler
+ *fill*         0x01005a46        0x2 
+ .text.LINFLEXD15_UART_TxIRQHandler
+                0x01005a48       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a48                LINFLEXD15_UART_TxIRQHandler
+ *fill*         0x01005a5e        0x2 
+ .text.LINFLEXD0_UART_ErrIRQHandler
+                0x01005a60       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a60                LINFLEXD0_UART_ErrIRQHandler
+ *fill*         0x01005a76        0x2 
+ .text.LINFLEXD1_UART_ErrIRQHandler
+                0x01005a78       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a78                LINFLEXD1_UART_ErrIRQHandler
+ *fill*         0x01005a8e        0x2 
+ .text.LINFLEXD2_UART_ErrIRQHandler
+                0x01005a90       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005a90                LINFLEXD2_UART_ErrIRQHandler
+ *fill*         0x01005aa6        0x2 
+ .text.LINFLEXD3_UART_ErrIRQHandler
+                0x01005aa8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005aa8                LINFLEXD3_UART_ErrIRQHandler
+ *fill*         0x01005abe        0x2 
+ .text.LINFLEXD4_UART_ErrIRQHandler
+                0x01005ac0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005ac0                LINFLEXD4_UART_ErrIRQHandler
+ *fill*         0x01005ad6        0x2 
+ .text.LINFLEXD5_UART_ErrIRQHandler
+                0x01005ad8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005ad8                LINFLEXD5_UART_ErrIRQHandler
+ *fill*         0x01005aee        0x2 
+ .text.LINFLEXD6_UART_ErrIRQHandler
+                0x01005af0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005af0                LINFLEXD6_UART_ErrIRQHandler
+ *fill*         0x01005b06        0x2 
+ .text.LINFLEXD7_UART_ErrIRQHandler
+                0x01005b08       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b08                LINFLEXD7_UART_ErrIRQHandler
+ *fill*         0x01005b1e        0x2 
+ .text.LINFLEXD8_UART_ErrIRQHandler
+                0x01005b20       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b20                LINFLEXD8_UART_ErrIRQHandler
+ *fill*         0x01005b36        0x2 
+ .text.LINFLEXD9_UART_ErrIRQHandler
+                0x01005b38       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b38                LINFLEXD9_UART_ErrIRQHandler
+ *fill*         0x01005b4e        0x2 
+ .text.LINFLEXD10_UART_ErrIRQHandler
+                0x01005b50       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b50                LINFLEXD10_UART_ErrIRQHandler
+ *fill*         0x01005b66        0x2 
+ .text.LINFLEXD11_UART_ErrIRQHandler
+                0x01005b68       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b68                LINFLEXD11_UART_ErrIRQHandler
+ *fill*         0x01005b7e        0x2 
+ .text.LINFLEXD12_UART_ErrIRQHandler
+                0x01005b80       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b80                LINFLEXD12_UART_ErrIRQHandler
+ *fill*         0x01005b96        0x2 
+ .text.LINFLEXD13_UART_ErrIRQHandler
+                0x01005b98       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005b98                LINFLEXD13_UART_ErrIRQHandler
+ *fill*         0x01005bae        0x2 
+ .text.LINFLEXD14_UART_ErrIRQHandler
+                0x01005bb0       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005bb0                LINFLEXD14_UART_ErrIRQHandler
+ *fill*         0x01005bc6        0x2 
+ .text.LINFLEXD15_UART_ErrIRQHandler
+                0x01005bc8       0x16 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01005bc8                LINFLEXD15_UART_ErrIRQHandler
+ *fill*         0x01005bde        0x2 
+ .text.PINS_DRV_Init
+                0x01005be0       0x38 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                0x01005be0                PINS_DRV_Init
+ .text.PINS_Init
+                0x01005c18      0x1ac ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+                0x01005c18                PINS_Init
+ .text.UART_Init
+                0x01005dc4      0x17c ./SDK/platform/pal/src/uart/uart_pal.o
+                0x01005dc4                UART_Init
+ .text.UART_SetRxBuffer
+                0x01005f40       0x4a ./SDK/platform/pal/src/uart/uart_pal.o
+                0x01005f40                UART_SetRxBuffer
+ *fill*         0x01005f8a        0x2 
+ .text.OSIF_SemaPost
+                0x01005f8c       0x54 ./SDK/rtos/osif/osif_baremetal.o
+                0x01005f8c                OSIF_SemaPost
+ .text.OSIF_SemaCreate
+                0x01005fe0       0x42 ./SDK/rtos/osif/osif_baremetal.o
+                0x01005fe0                OSIF_SemaCreate
+ *fill*         0x01006022        0x2 
+ .text.initLINFlexD_0
+                0x01006024       0x1e ./Sources/main.o
+                0x01006024                initLINFlexD_0
+ *fill*         0x01006042        0x2 
+ .text.transmitLINframe
+                0x01006044       0x34 ./Sources/main.o
+                0x01006044                transmitLINframe
+ .text.rxCallback
+                0x01006078       0x52 ./Sources/main.o
+                0x01006078                rxCallback
+ *fill*         0x010060ca        0x2 
+ .text.main     0x010060cc       0x74 ./Sources/main.o
+                0x010060cc                main
+ *(.init)
+ .init          0x01006140        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006140                __init
+ .init          0x0100614c        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .init          0x01006150        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .init          0x01006154        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(.fini)
+ *fill*         0x0100615e        0x2 
+ .fini          0x01006160        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006160                __fini
+ .fini          0x0100616c        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .fini          0x01006170        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x01006180                . = ALIGN (0x10)
+ *fill*         0x0100617a        0x6 
+
+.glink          0x01006180        0x0
+ .glink         0x01006180        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.sdata2         0x01006180       0x10
+                0x01006180                . = ALIGN (0x4)
+                0x01006180                __sdata2_start__ = .
+ *(.sdata2)
+ .sdata2        0x01006180        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006180                __SDATA2_START__
+ .sdata2        0x01006180        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                0x0100e180                _SDA2_BASE_
+ *(.sdata2.*)
+ .sdata2.uart_instance
+                0x01006180        0x8 ./Generated_Code/uart.o
+                0x01006180                uart_instance
+ .sdata2.s_vectors
+                0x01006188        0x8 ./SDK/platform/devices/startup.o
+                0x01006190                . = ALIGN (0x4)
+                0x01006190                __sdata2_end__ = .
+
+.got2           0x01006190       0x1c
+ *(.got2*)
+ .got2          0x01006190       0x1c c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+
+.preinit_array  0x010061ac        0x0
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x010061ac        0x0
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end, .)
+
+.dtors          0x010061ac        0x8
+ *crtbegin.o(.dtors)
+ .dtors         0x010061ac        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ .dtors         0x010061b0        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x010061b0                __DTOR_LIST__
+ .dtors         0x010061b0        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x010061b0        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x010061b0                __DTOR_END__
+
+.ctors          0x010061b4        0x8
+ *crtbegin.o(.ctors)
+ .ctors         0x010061b4        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ .ctors         0x010061b8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x010061b8                __CTOR_LIST__
+ .ctors         0x010061b8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x010061b8                __CTOR_END__
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x010061b8        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+
+.fini_array     0x010061bc        0x0
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end, .)
+
+.rodata         0x010061bc      0x894
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.uart_Config0
+                0x010061bc       0x2c ./Generated_Code/uart.o
+                0x010061bc                uart_Config0
+ .rodata.CLOCK_DRV_Init
+                0x010061e8      0x100 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.CLOCK_DRV_GetFreq
+                0x010062e8       0x6c ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.interfaceClocks
+                0x01006354      0x1e8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.monitoredClocks
+                0x0100653c      0x1e8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .rodata.clockNameMappings
+                0x01006724       0xf4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x01006724                clockNameMappings
+ .rodata.s_LINFlexDInstHasDma
+                0x01006818       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_uartLINFlexDRxIntVec
+                0x01006828       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_uartLINFlexDErrIntVec
+                0x01006868       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_uartLINFlexDTxIntVec
+                0x010068a8       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_uartLINFlexDClkNames
+                0x010068e8       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_LINFlexDBase
+                0x01006928       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.s_LINFlexDInstHasFilters
+                0x01006968       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .rodata.g_uartLINFlexDTxIsr
+                0x01006978       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x01006978                g_uartLINFlexDTxIsr
+ .rodata.g_uartLINFlexDErrIsr
+                0x010069b8       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010069b8                g_uartLINFlexDErrIsr
+ .rodata.g_uartLINFlexDRxIsr
+                0x010069f8       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                0x010069f8                g_uartLINFlexDRxIsr
+ .rodata.UART_Init
+                0x01006a38       0x18 ./SDK/platform/pal/src/uart/uart_pal.o
+
+.sbss2          0x01006a50        0x0
+ .sbss2         0x01006a50        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x01006a50        0x8
+ *(.eh_frame)
+ .eh_frame      0x01006a50        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x01006a50                __EH_FRAME_BEGIN__
+ .eh_frame      0x01006a50        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01006a50        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x01006a50        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .eh_frame      0x01006a54        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x01006a54                __EH_FRAME_END__
+
+.init_table     0x01006a58       0x40
+                0x01006a58                . = ALIGN (0x4)
+                0x01006a58                __COPY_TABLE = .
+ *(.init_table)
+ .init_table    0x01006a58       0x40 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+
+.zero_table     0x01006a98       0x14
+                0x01006a98                . = ALIGN (0x4)
+                0x01006a98                __ZERO_TABLE = .
+ *(.zero_table)
+ .zero_table    0x01006a98       0x14 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+                0x01006aac                __TEXT_END = .
+
+.rela.dyn       0x01006aac        0x0
+ .rela.iplt     0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text     0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.rodata.uart_Config0
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.rodata.uart_pal1_Config0
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.init_table
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.zero_table
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.cpu0_reset_vector
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.intc_vector_table
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.init_data_bss
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.INT_SYS_InstallHandler
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.LINFLEXD_UART_DRV_Init
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.text.LINFLEXD_UART_DRV_Deinit
+                0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .rela.got2     0x01006aac        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.interrupts_ram
+                0x40000000      0xc00
+                0x40000000                __VECTOR_RAM = .
+ *(.m_interrupts_ram)
+                0x40000c00                . = (. + __RAM_VECTOR_TABLE_SIZE)
+ *fill*         0x40000000      0xc00 
+                0x01006aac                __CUSTOM_ROM = __TEXT_END
+
+.customSectionBlock
+                0x40000c00        0x0 load address 0x01006aac
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __CUSTOM_RAM = .
+                0x40000c00                __customSectionStart = .
+                0x40000c00                __customSection_start__ = .
+ *(.customSection)
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __customSection_end__ = .
+                0x40000c00                __customSectionEnd = .
+                0x01006aac                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
+                0x01006aac                __DATA_ROM = __CUSTOM_END
+
+.data           0x40000c00     0x152c load address 0x01006aac
+                0x40000c00                . = ALIGN (0x4)
+                0x40000c00                __DATA_RAM = .
+                0x40000c00                __data_start__ = .
+ *(.data)
+ .data          0x40000c00        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ *(.data.*)
+ .data.peripheralClockMcMeConfig0
+                0x40000c04      0x2dc ./Generated_Code/clockMan1.o
+                0x40000c04                peripheralClockMcMeConfig0
+ .data.clockMan1_InitConfig0
+                0x40000ee0      0x248 ./Generated_Code/clockMan1.o
+                0x40000ee0                clockMan1_InitConfig0
+ .data.g_pin_mux_InitConfigArr
+                0x40001128     0x1004 ./Generated_Code/pin_mux.o
+                0x40001128                g_pin_mux_InitConfigArr
+                0x4000212c                . = ALIGN (0x4)
+                0x4000212c                __data_end__ = .
+                0x01007fd8                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x01007fd8                __SDATA_ROM = __DATA_END
+
+.jcr            0x4000212c        0x0 load address 0x01007fd8
+ .jcr           0x4000212c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.tm_clone_table
+                0x4000212c        0x0 load address 0x01007fd8
+ .tm_clone_table
+                0x4000212c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .tm_clone_table
+                0x4000212c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+
+.sdata          0x4000212c        0xc load address 0x01007fd8
+                0x4000212c                . = ALIGN (0x4)
+                0x4000212c                __SDATA_RAM = .
+                0x4000212c                __sdata_start__ = .
+ *(.sdata)
+ .sdata         0x4000212c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x4000212c                __SDATA_START__
+ .sdata         0x4000212c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                0x4000a12c                _SDA_BASE_
+ *(.sdata.*)
+ .sdata.g_clockManConfigsArr
+                0x4000212c        0x4 ./Generated_Code/clockMan1.o
+                0x4000212c                g_clockManConfigsArr
+ .sdata.g_xtal0ClkFreq
+                0x40002130        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x40002130                g_xtal0ClkFreq
+ .sdata.g_xtal1ClkFreq
+                0x40002134        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                0x40002134                g_xtal1ClkFreq
+                0x40002138                . = ALIGN (0x4)
+                0x40002138                __sdata_end__ = .
+                0x01007fe4                __SDATA_END = (__SDATA_ROM + (__sdata_end__ - __sdata_start__))
+
+.sbss           0x40002138       0x44 load address 0x01007fe4
+                0x40002138                . = ALIGN (0x4)
+                0x40002138                __SBSS_START = .
+                0x40002138                __sbss_start__ = .
+ *(.sbss)
+ .sbss          0x40002138        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x40002138                __SBSS_END__
+ *(.sbss.*)
+ .sbss.g_clockManCallbacksArr
+                0x40002138        0x4 ./Generated_Code/clockMan1.o
+                0x40002138                g_clockManCallbacksArr
+ .sbss.g_pllPhi1ClkFreq
+                0x4000213c        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_enetRmiiClkFreq
+                0x40002140        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_fircClkUndividedFreq
+                0x40002144        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_sircClkUndividedFreq
+                0x40002148        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_fircClkFreq
+                0x4000214c        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_sxoscClkFreq
+                0x40002150        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_pllPhi0ClkFreq
+                0x40002154        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_sircClkFreq
+                0x40002158        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.clockSourceFrequenciesAreCalculatedAndCached.5884
+                0x4000215c        0x1 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ *fill*         0x4000215d        0x3 
+ .sbss.g_sxoscClkUndividedFreq
+                0x40002160        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_fxoscClkUndividedFreq
+                0x40002164        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.g_fxoscClkFreq
+                0x40002168        0x4 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .sbss.s_virtEdmaState
+                0x4000216c        0x4 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .sbss.g_interruptDisableCount
+                0x40002170        0x4 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .sbss.s_linFlexDStateInstanceMapping
+                0x40002174        0x1 ./SDK/platform/pal/src/uart/uart_pal.o
+ *fill*         0x40002175        0x3 
+ .sbss.s_linFlexDStateIsAllocated
+                0x40002178        0x1 ./SDK/platform/pal/src/uart/uart_pal.o
+ .sbss.bufferIdx
+                0x40002179        0x1 ./Sources/main.o
+                0x40002179                bufferIdx
+                0x4000217c                . = ALIGN (0x4)
+ *fill*         0x4000217a        0x2 
+                0x4000217c                __sbss_end__ = .
+                0x4000217c                __SBSS_END = .
+
+.bss            0x4000217c      0x1b4 load address 0x01008028
+                0x4000217c                . = ALIGN (0x4)
+                0x4000217c                __BSS_START = .
+                0x4000217c                __bss_start__ = .
+ *(.bss)
+ .bss           0x4000217c       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ *(.bss.*)
+ .bss.g_clockState
+                0x4000219c       0x10 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .bss.s_uartLINFlexDStatePtr
+                0x400021ac       0x40 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .bss.s_linFlexDState
+                0x400021ec       0x44 ./SDK/platform/pal/src/uart/uart_pal.o
+ .bss.buffer    0x40002230      0x100 ./Sources/main.o
+                0x40002230                buffer
+ *(COMMON)
+                0x40002330                . = ALIGN (0x4)
+                0x40002330                __bss_end__ = .
+                0x40002330                __BSS_END = .
+                0x01007fe4                __CODE_ROM = __SDATA_END
+
+.iplt           0x40002330        0x0 load address 0x010081e0
+ .iplt          0x40002330        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+
+.code           0x40002330        0x0 load address 0x01007fe4
+                0x40002330                . = ALIGN (0x4)
+                0x40002330                __CODE_RAM = .
+                0x40002330                __code_start__ = .
+                0x40002330                __code_ram_start__ = .
+ *(.code_ram)
+                0x40002330                . = ALIGN (0x4)
+                0x40002330                __code_ram_end__ = .
+                0x40002330                __code_end__ = .
+                0x01007fe4                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+
+.stack          0x40002330     0x1000 load address 0x010081e0
+                0x40002330                __HEAP = .
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (end, .)
+                0x40002330                . = (. + __HEAP_SIZE)
+                0x40002330                __HEAP_END = .
+                0x40002330                _stack_end = .
+                0x40003330                . = (. + __STACK_SIZE)
+ *fill*         0x40002330     0x1000 
+                0x40003330                . = ALIGN (0x4)
+                0x40003330                _stack_addr = .
+                0x40003330                __SP_INIT = .
+                0x00030000                __SRAM_SIZE = SRAM_SIZE
+                0x40000000                __SRAM_BASE_ADDR = SRAM_BASE_ADDR
+                0x000001b4                __BSS_SIZE = (__BSS_END - __BSS_START)
+OUTPUT(LIN_mpc5746c.elf elf32-powerpc)
+
+.comment        0x00000000       0x9c
+ .comment       0x00000000        0xd c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                                  0xe (size before relaxing)
+ .comment       0x0000000d       0x82 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+                                 0x83 (size before relaxing)
+ .comment       0x0000008f       0x83 ./Generated_Code/clockMan1.o
+ .comment       0x0000008f       0x83 ./Generated_Code/pin_mux.o
+ .comment       0x0000008f       0x83 ./Generated_Code/uart.o
+ .comment       0x0000008f       0x83 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .comment       0x0000008f       0x83 ./SDK/platform/devices/startup.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .comment       0x0000008f       0x83 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .comment       0x0000008f       0x83 ./SDK/platform/pal/src/uart/uart_pal.o
+ .comment       0x0000008f       0x83 ./SDK/rtos/osif/osif_baremetal.o
+ .comment       0x0000008f       0x83 ./Sources/main.o
+ .comment       0x0000008f       0x83 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .comment       0x0000008f        0xd c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                                  0xe (size before relaxing)
+
+.PPC.EMB.apuinfo
+                0x00000000       0x20
+ .PPC.EMB.apuinfo
+                0x00000000       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .PPC.EMB.apuinfo
+                0x00000018       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .PPC.EMB.apuinfo
+                0x00000030       0x1c ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .PPC.EMB.apuinfo
+                0x0000004c       0x18 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .PPC.EMB.apuinfo
+                0x00000064       0x18 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .PPC.EMB.apuinfo
+                0x0000007c       0x18 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .PPC.EMB.apuinfo
+                0x00000094       0x18 ./SDK/platform/devices/startup.o
+ .PPC.EMB.apuinfo
+                0x000000ac       0x18 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .PPC.EMB.apuinfo
+                0x000000c4       0x18 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .PPC.EMB.apuinfo
+                0x000000dc       0x18 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .PPC.EMB.apuinfo
+                0x000000f4       0x18 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .PPC.EMB.apuinfo
+                0x0000010c       0x18 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .PPC.EMB.apuinfo
+                0x00000124       0x1c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .PPC.EMB.apuinfo
+                0x00000140       0x18 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .PPC.EMB.apuinfo
+                0x00000158       0x18 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .PPC.EMB.apuinfo
+                0x00000170       0x18 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .PPC.EMB.apuinfo
+                0x00000188       0x18 ./SDK/platform/pal/src/uart/uart_pal.o
+ .PPC.EMB.apuinfo
+                0x000001a0       0x18 ./SDK/rtos/osif/osif_baremetal.o
+ .PPC.EMB.apuinfo
+                0x000001b8       0x18 ./Sources/main.o
+ .PPC.EMB.apuinfo
+                0x000001d0       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+ .PPC.EMB.apuinfo
+                0x000001e8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .PPC.EMB.apuinfo
+                0x00000200       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+
+.debug_info     0x00000000    0x210b0
+ .debug_info    0x00000000     0x26ab ./Generated_Code/clockMan1.o
+ .debug_info    0x000026ab      0x7c0 ./Generated_Code/pin_mux.o
+ .debug_info    0x00002e6b      0xe07 ./Generated_Code/uart.o
+ .debug_info    0x00003c72       0xed ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_info    0x00003d5f       0xe8 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_info    0x00003e47       0xe3 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .debug_info    0x00003f2a     0x1529 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_info    0x00005453      0x35c ./SDK/platform/devices/startup.o
+ .debug_info    0x000057af     0x6780 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_info    0x0000bf2f     0x4982 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_info    0x000108b1     0x1715 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_info    0x00011fc6      0x94b ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_info    0x00012911     0x1794 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_info    0x000140a5     0x441d ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_info    0x000184c2      0x864 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_info    0x00018d26     0x16ab ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_info    0x0001a3d1      0x9b4 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_info    0x0001ad85     0x1513 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_info    0x0001c298     0x1ab4 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_info    0x0001dd4c     0x3364 ./Sources/main.o
+
+.debug_abbrev   0x00000000     0x2612
+ .debug_abbrev  0x00000000      0x126 ./Generated_Code/clockMan1.o
+ .debug_abbrev  0x00000126      0x10c ./Generated_Code/pin_mux.o
+ .debug_abbrev  0x00000232       0xa0 ./Generated_Code/uart.o
+ .debug_abbrev  0x000002d2       0x14 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_abbrev  0x000002e6       0x14 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_abbrev  0x000002fa       0x12 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .debug_abbrev  0x0000030c      0x16d ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_abbrev  0x00000479      0x131 ./SDK/platform/devices/startup.o
+ .debug_abbrev  0x000005aa      0x3bf ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_abbrev  0x00000969      0x3d1 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_abbrev  0x00000d3a      0x2c1 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_abbrev  0x00000ffb      0x19f ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_abbrev  0x0000119a      0x285 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_abbrev  0x0000141f      0x431 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_abbrev  0x00001850       0xfe ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_abbrev  0x0000194e      0x312 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_abbrev  0x00001c60      0x211 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_abbrev  0x00001e71      0x262 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_abbrev  0x000020d3      0x2f6 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_abbrev  0x000023c9      0x249 ./Sources/main.o
+
+.debug_aranges  0x00000000      0xa70
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/clockMan1.o
+ .debug_aranges
+                0x00000018       0x18 ./Generated_Code/pin_mux.o
+ .debug_aranges
+                0x00000030       0x18 ./Generated_Code/uart.o
+ .debug_aranges
+                0x00000048       0x20 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_aranges
+                0x00000068       0x20 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_aranges
+                0x00000088       0x28 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .debug_aranges
+                0x000000b0       0x30 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_aranges
+                0x000000e0       0x20 ./SDK/platform/devices/startup.o
+ .debug_aranges
+                0x00000100       0x78 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_aranges
+                0x00000178      0x138 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_aranges
+                0x000002b0      0x178 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_aranges
+                0x00000428      0x120 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_aranges
+                0x00000548       0x80 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_aranges
+                0x000005c8      0x100 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_aranges
+                0x000006c8      0x198 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_aranges
+                0x00000860       0xa0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_aranges
+                0x00000900       0x28 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_aranges
+                0x00000928       0x90 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_aranges
+                0x000009b8       0x70 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_aranges
+                0x00000a28       0x48 ./Sources/main.o
+
+.debug_macro    0x00000000    0x21aa0
+ .debug_macro   0x00000000      0x1fa ./Generated_Code/clockMan1.o
+ .debug_macro   0x000001fa       0x1c ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000216    0x1fdda ./Generated_Code/clockMan1.o
+ .debug_macro   0x0001fff0       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00020000      0x162 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00020162      0x1fe ./Generated_Code/uart.o
+ .debug_macro   0x00020360      0x104 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00020464       0x22 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_macro   0x00020486      0x13b ./SDK/platform/devices/startup.o
+ .debug_macro   0x000205c1       0x58 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00020619      0x186 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x0002079f       0x28 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_macro   0x000207c7      0x173 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_macro   0x0002093a      0x14e ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_macro   0x00020a88      0x153 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_macro   0x00020bdb      0x159 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00020d34      0x1af ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_macro   0x00020ee3      0x19b ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x0002107e       0x1c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x0002109a       0x10 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_macro   0x000210aa      0x19b ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_macro   0x00021245      0x162 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x000213a7       0x10 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_macro   0x000213b7      0x14e ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_macro   0x00021505      0x1ab ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_macro   0x000216b0      0x185 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_macro   0x00021835      0x25b ./Sources/main.o
+ .debug_macro   0x00021a90       0x10 ./Sources/main.o
+
+.debug_line     0x00000000     0x88c9
+ .debug_line    0x00000000      0x6d2 ./Generated_Code/clockMan1.o
+ .debug_line    0x000006d2      0x446 ./Generated_Code/pin_mux.o
+ .debug_line    0x00000b18      0x6cd ./Generated_Code/uart.o
+ .debug_line    0x000011e5      0x1a4 ./Project_Settings/Startup_Code/core0_intc_sw_handlers.o
+ .debug_line    0x00001389       0xb8 ./Project_Settings/Startup_Code/interrupt_vectors.o
+ .debug_line    0x00001441      0x118 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .debug_line    0x00001559      0x3e2 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_line    0x0000193b      0x38e ./SDK/platform/devices/startup.o
+ .debug_line    0x00001cc9      0xe08 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_line    0x00002ad1      0xe39 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_line    0x0000390a      0x9a1 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_line    0x000042ab      0x683 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_line    0x0000492e      0x6ae ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_line    0x00004fdc      0xd3c ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_line    0x00005d18      0x8cd ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_line    0x000065e5      0x6f6 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_line    0x00006cdb      0x497 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_line    0x00007172      0x974 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_line    0x00007ae6      0x65b ./SDK/rtos/osif/osif_baremetal.o
+ .debug_line    0x00008141      0x788 ./Sources/main.o
+
+.debug_str      0x00000000    0xe0869
+ .debug_str     0x00000000    0xd9a7c ./Generated_Code/clockMan1.o
+                              0xdbfee (size before relaxing)
+ .debug_str     0x000d9a7c      0x8b4 ./Generated_Code/pin_mux.o
+                              0xd5e6c (size before relaxing)
+ .debug_str     0x000da330      0x255 ./Generated_Code/uart.o
+                              0xd8852 (size before relaxing)
+ .debug_str     0x000da585      0x364 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+                              0xd746c (size before relaxing)
+ .debug_str     0x000da8e9      0x3c9 ./SDK/platform/devices/startup.o
+                              0xd594b (size before relaxing)
+ .debug_str     0x000dacb2     0x13f1 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+                              0xdb71c (size before relaxing)
+ .debug_str     0x000dc0a3     0x1c9b ./SDK/platform/drivers/src/edma/edma_driver.o
+                              0xdad33 (size before relaxing)
+ .debug_str     0x000ddd3e      0x125 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+                              0xd61fa (size before relaxing)
+ .debug_str     0x000dde63      0x338 ./SDK/platform/drivers/src/edma/edma_irq.o
+                              0xd5a80 (size before relaxing)
+ .debug_str     0x000de19b      0x3ed ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+                              0xd7604 (size before relaxing)
+ .debug_str     0x000de588     0x1242 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+                              0xda6ce (size before relaxing)
+ .debug_str     0x000df7ca      0x5d3 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+                              0xd6e12 (size before relaxing)
+ .debug_str     0x000dfd9d      0x3a6 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+                              0xd6aeb (size before relaxing)
+ .debug_str     0x000e0143       0x9e ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+                              0xd5f06 (size before relaxing)
+ .debug_str     0x000e01e1      0x270 ./SDK/platform/pal/src/uart/uart_pal.o
+                              0xd7b31 (size before relaxing)
+ .debug_str     0x000e0451      0x28b ./SDK/rtos/osif/osif_baremetal.o
+                              0xd93e2 (size before relaxing)
+ .debug_str     0x000e06dc      0x18d ./Sources/main.o
+                              0xdcdd0 (size before relaxing)
+
+.debug_ranges   0x00000000      0xbe0
+ .debug_ranges  0x00000000       0x20 ./Project_Settings/Startup_Code/startup_MPC5746C.o
+ .debug_ranges  0x00000020       0x20 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_ranges  0x00000040       0x10 ./SDK/platform/devices/startup.o
+ .debug_ranges  0x00000050      0x1d8 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_ranges  0x00000228      0x140 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_ranges  0x00000368      0x168 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_ranges  0x000004d0      0x110 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_ranges  0x000005e0       0xd0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_ranges  0x000006b0      0x1b0 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_ranges  0x00000860      0x188 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_ranges  0x000009e8       0x90 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_ranges  0x00000a78       0x18 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_ranges  0x00000a90       0x98 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_ranges  0x00000b28       0x80 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_ranges  0x00000ba8       0x38 ./Sources/main.o
+
+.debug_loc      0x00000000     0xf73c
+ .debug_loc     0x00000000      0x200 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_loc     0x00000200      0x181 ./SDK/platform/devices/startup.o
+ .debug_loc     0x00000381     0x3864 ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_loc     0x00003be5     0x3926 ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_loc     0x0000750b      0xbed ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_loc     0x000080f8       0x3d ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_loc     0x00008135      0x8c8 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_loc     0x000089fd     0x3873 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_loc     0x0000c270      0x8a0 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_loc     0x0000cb10      0x59a ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_loc     0x0000d0aa     0x1e63 ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_loc     0x0000ef0d      0x758 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_loc     0x0000f665       0xd7 ./Sources/main.o
+
+.debug_frame    0x00000000     0x1dac
+ .debug_frame   0x00000000       0x40 ./SDK/platform/devices/MPC5746C/startup/system_MPC5746C.o
+ .debug_frame   0x00000040       0x2c ./SDK/platform/devices/startup.o
+ .debug_frame   0x0000006c      0x17c ./SDK/platform/drivers/src/clock/MPC57xx/clock_MPC57xx.o
+ .debug_frame   0x000001e8      0x4fc ./SDK/platform/drivers/src/edma/edma_driver.o
+ .debug_frame   0x000006e4      0x2e4 ./SDK/platform/drivers/src/edma/edma_hw_access.o
+ .debug_frame   0x000009c8      0x430 ./SDK/platform/drivers/src/edma/edma_irq.o
+ .debug_frame   0x00000df8       0xe0 ./SDK/platform/drivers/src/interrupt/interrupt_manager_MPC57xx.o
+ .debug_frame   0x00000ed8      0x3b8 ./SDK/platform/drivers/src/linflexd/linflexd_uart_driver.o
+ .debug_frame   0x00001290      0x610 ./SDK/platform/drivers/src/linflexd/linflexd_uart_irq.o
+ .debug_frame   0x000018a0      0x148 ./SDK/platform/drivers/src/pins/siul2/pins_siul2_driver.o
+ .debug_frame   0x000019e8       0x30 ./SDK/platform/drivers/src/pins/siul2/siul2_hw_access.o
+ .debug_frame   0x00001a18      0x1ec ./SDK/platform/pal/src/uart/uart_pal.o
+ .debug_frame   0x00001c04      0x110 ./SDK/rtos/osif/osif_baremetal.o
+ .debug_frame   0x00001d14       0x98 ./Sources/main.o
