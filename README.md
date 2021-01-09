@@ -39,7 +39,7 @@ Currently there are seperated Software for every communication system:
 	 
  	- #define MASTER //Board 2 (Press Button S6 or S7 on Board 2 or LED 4&5 will light if message from Board 1 arrives)
 	  or
-	  #define SLAVE //Board 1 (Press Button S6 or S7 on Board 1 or LED 4&5 will light if message from Board 2 arrives)
+	- #define SLAVE //Board 1 (Press Button S6 or S7 on Board 1 or LED 4&5 will light if message from Board 2 arrives)
 
 - FlexRay:
  	- Still in work
