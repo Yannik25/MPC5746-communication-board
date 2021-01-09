@@ -1,4 +1,4 @@
-# MPC57746 Communication Board
+# MPC5746 Communication Board
 
 This board and the software were created for a course during my studies at [HAW-Landshut](https://www.haw-landshut.de/)
 
