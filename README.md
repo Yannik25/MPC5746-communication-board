@@ -13,8 +13,8 @@ It has the following communication system on-board:
 - RS232
 
 Additionally, it has follwoing on-board:
-- Two tactile switches, two slide switches, two push-buttons
-- Aight LEDs
+- Two toggle switches, two slide switches, two push-buttons
+- Eight LEDs
 
 
 Currently there are seperated Software for every communication system:
@@ -36,10 +36,10 @@ Currently there are seperated Software for every communication system:
 	- Realised via Registers. Sends 0x6C6C6568 and 0x2020206F what represends "hello   "
 
 - CAN 
-	- 
-	  #define MASTER //Board 2 (Press Button S6 or S7 on Board 2 or LED 4&5 will light if message from Board 1 arrives)
-	  oder
+	 
+ 	- #define MASTER //Board 2 (Press Button S6 or S7 on Board 2 or LED 4&5 will light if message from Board 1 arrives)
+	  or
 	  #define SLAVE //Board 1 (Press Button S6 or S7 on Board 1 or LED 4&5 will light if message from Board 2 arrives)
 
 - FlexRay:
-  - Still in work
+ 	- Still in work
