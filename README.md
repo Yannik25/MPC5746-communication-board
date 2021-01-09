@@ -1,1 +1,1 @@
-# MPC57746-communication-board
+# MPC57746 Communication Board
